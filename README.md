@@ -1,5 +1,4 @@
-# Robustness of Climate Network-based Early Warning Signals of an
-AMOC Collapse
+# Robustness of Climate Network-based Early Warning Signals of an AMOC Collapse
 
 Robustness of Climate Network-based Early Warning Signals of an AMOC Collapse (submitted November 2026)
 
